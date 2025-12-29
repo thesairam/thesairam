@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub profile README** you can paste directly into `README.md`. I’ve structured it to sound confident, technical, and personable, while keeping it concise and recruiter-friendly.
-
----
-
 # 👋 Hi, I’m Sairam
 
 I’m driven by solving complex problems in the **energy industry**, with a strong focus on **battery storage systems, energy software, and AI-powered products**.
@@ -70,12 +66,3 @@ Focus on energy systems, analytics, and software-driven decision-making
 **Not-nerd me:**
 🍳 Passionate home cook
 🥾 Avid hiker—especially when mountains are nearby
-
----
-
-If you want, I can also:
-
-* Add **badges** (Python, Linux, AI, Energy, etc.)
-* Create a **shorter version** for recruiters
-* Add **GitHub stats**, activity graphs, or pinned projects
-* Rewrite this in a more **casual** or **highly technical** tone
